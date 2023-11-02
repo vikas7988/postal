@@ -24,7 +24,7 @@ const PostalData = () => {
           <div className="
            flex justify-center gap-4">
             {" "}
-            <div className="text-right font-bold text-base">
+            <div className="text-right font-bold text-lg">
               <p>Country:</p>
               <p>State:</p>
               <p>Places:</p>{" "}
